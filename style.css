@@ -1,0 +1,22 @@
+body {
+  background-color: #fafafa;
+}
+h1 {
+  text-align: center;
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3rem;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+article {
+  border: 3px solid grey;
+  padding: 1rem;
+  margin: 1rem;
+}
+footer {
+  padding: 2rem;
+  text-align: center;
+}
